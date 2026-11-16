@@ -1,0 +1,207 @@
+{
+  "name": "Kandhan C",
+  "first_name": "Kandhan",
+  "title": "Backend Software Developer",
+  "location": "Chennai, India",
+  "email": "kandhanchandrasekar@gmail.com",
+  "phone": "+91 9176135563",
+  "linkedin": "",
+  "github": "",
+  "summary": "Python Backend Developer with 3+ years of experience building scalable applications and REST APIs using Python, Django, DRF, Flask, and FastAPI. Skilled in PostgreSQL, JWT/RBAC, and AWS, with experience in manufacturing automation, cloud integration, banking systems, and Generative AI (LLMs & RAG). Focused on developing reliable, secure, and efficient backend solutions that solve real-world business problems.",
+  "hero_tags": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "PostgreSQL",
+    "AWS",
+    "Generative AI"
+  ],
+  "years": "3+",
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Binary Accord",
+      "place": "Chennai, India",
+      "period": "Aug 2023 - Present",
+      "points": [
+        "Developed and maintained Python-based backend applications and REST APIs.",
+        "Designed PostgreSQL database models and implemented efficient database operations using ORM.",
+        "Integrated AWS cloud services and implemented JWT authentication and role-based authorization.",
+        "Implemented business logic, API validation, exception handling and automation workflows.",
+        "Collaborated with frontend developers and cross-functional teams to deliver high-quality software solutions."
+      ],
+      "type": "Full-time",
+      "summary": "Working on backend systems, automation, and integrations for manufacturing and business operations.",
+      "tech": [
+        "Python",
+        "Django",
+        "FastAPI",
+        "PostgreSQL",
+        "AWS",
+        "JWT",
+        "Flask"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Application (MCA)",
+      "school": "Dr. M.G.R Educational and Research Institute",
+      "detail": "8.1 CGPA · Completed while working full-time",
+      "year": "2024"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "J.H.A Agarsen College, University of Madras",
+      "detail": "8.3 CGPA",
+      "year": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Python Programming",
+      "issuer": "GUVI",
+      "date": "May 2023",
+      "url": ""
+    },
+    {
+      "title": "Django Framework",
+      "issuer": "GeeksforGeeks",
+      "date": "Jan 2024",
+      "url": ""
+    },
+    {
+      "title": "MySQL Database",
+      "issuer": "Simplilearn",
+      "date": "Jun 2024",
+      "url": ""
+    },
+    {
+      "title": "AWS Cloud",
+      "issuer": "Great Learning",
+      "date": "May 2026",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "group": "Backend",
+      "items": [
+        {
+          "name": "Python",
+          "icon": "devicon-python-plain"
+        },
+        {
+          "name": "FastAPI",
+          "icon": "devicon-fastapi-plain"
+        },
+        {
+          "name": "Django",
+          "icon": "devicon-django-plain"
+        },
+        {
+          "name": "Flask",
+          "icon": "devicon-flask-original"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "devicon-javascript-plain"
+        }
+      ]
+    },
+    {
+      "group": "Databases",
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "icon": "devicon-postgresql-plain"
+        },
+        {
+          "name": "MySQL",
+          "icon": "devicon-mysql-original"
+        },
+        {
+          "name": "SQLAlchemy",
+          "icon": "devicon-sqlalchemy-plain"
+        }
+      ]
+    },
+    {
+      "group": "Cloud & DevOps",
+      "items": [
+        {
+          "name": "AWS",
+          "icon": "devicon-amazonwebservices-plain-wordmark"
+        },
+        {
+          "name": "Docker",
+          "icon": "devicon-docker-plain"
+        },
+        {
+          "name": "Git",
+          "icon": "devicon-git-plain"
+        },
+        {
+          "name": "GitHub",
+          "icon": "devicon-github-original"
+        }
+      ]
+    },
+    {
+      "group": "Tools & Data",
+      "items": [
+        {
+          "name": "Postman",
+          "icon": "devicon-postman-plain"
+        },
+        {
+          "name": "Swagger",
+          "icon": "devicon-swagger-plain"
+        },
+        {
+          "name": "Pytest",
+          "icon": "devicon-pytest-plain"
+        },
+        {
+          "name": "Pandas",
+          "icon": "devicon-pandas-plain"
+        },
+        {
+          "name": "NumPy",
+          "icon": "devicon-numpy-plain"
+        },
+        {
+          "name": "VS Code",
+          "icon": "devicon-vscode-plain"
+        }
+      ]
+    }
+  ],
+  "also_skilled": [
+    "REST APIs",
+    "JWT / RBAC",
+    "OAuth2",
+    "Pydantic",
+    "Django ORM",
+    "Django REST Framework",
+    "Async / Await",
+    "Middleware",
+    "Database Design",
+    "OOP",
+    "Generative AI",
+    "RAG",
+    "LLM Integration",
+    "Prompt Engineering"
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Tamil",
+      "level": "Native"
+    }
+  ],
+  "experience_intro": "A journey of building scalable systems, integrating technologies, and delivering real-world business solutions."
+}

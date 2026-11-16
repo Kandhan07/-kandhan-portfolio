@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: kandhan-portfolio
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: SITE_URL
+        value: https://YOUR-DOMAIN.com        # change to your real domain
+      - key: NOTIFY_EMAIL
+        value: kandhanchandrasekar@gmail.com
+      - key: MAIL_FROM
+        value: Portfolio <onboarding@resend.dev>
+      - key: DATABASE_URL
+        sync: false                            # paste your Neon connection string in the Render dashboard
+      - key: RESEND_API_KEY
+        sync: false                            # paste your Resend API key in the Render dashboard

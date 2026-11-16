@@ -1,0 +1,211 @@
+[
+  {
+    "slug": "cloud-integration-authorization",
+    "title": "Centralized Cloud Integration & Authorization System",
+    "category": "Work",
+    "summary": "FastAPI backend that centralizes manufacturing data and keeps it synchronized across multiple assembly areas, secured with JWT and role-based access.",
+    "highlights": [
+      "REST APIs for manufacturing data integration and synchronization",
+      "AWS services integrated through Boto3",
+      "JWT authentication with role-based authorization"
+    ],
+    "stack": ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "AWS", "Boto3", "JWT"],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Uv5J9FwShTViA8wUrZBKwn-2560-80.jpg",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 1
+  },
+  {
+    "slug": "manufacturing-assembly-system",
+    "title": "Manufacturing & Mobile Assembly Management System",
+    "category": "Work",
+    "summary": "Django REST APIs powering component production, unique ID generation, scanning and component assignment on the assembly line.",
+    "highlights": [
+      "Assembly validation, duplicate prevention and missing-component checks",
+      "Database transactions to keep production data consistent"
+    ],
+    "stack": ["Python", "Django", "DRF", "PostgreSQL", "Django ORM"],
+    "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQE19131dP_gVQ/feedshare-shrink_800/B4DaCi69yCI4Ac-/0/1789439762173?e=2147483647&v=beta&t=zgGMvN1rPzvqoqi6sHXAl5NzDZ2K3b2_D_UMwqWqXIo",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 2
+  },
+  {
+    "slug": "banking-document-automation",
+    "title": "Banking Document Processing & PDF Automation",
+    "category": "Work",
+    "summary": "Replaced a legacy Press Script workflow with Python automation for parsing banking and loan documents and generating PDFs.",
+    "highlights": [
+      "Regex-based extraction across TXT, DAT, JSON, TIF and STR files",
+      "Automated formatting, data processing and PDF generation with FPDF",
+      "Reusable scripts that cut manual effort"
+    ],
+    "stack": ["Python", "Regex", "FPDF", "File Processing"],
+    "image_url": "https://cdn.veryfi.com/wp-content/uploads/Banking-LP-Hero-Illustration-DM.svg",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 3
+  },
+  {
+    "slug": "component-production-assembly-system",
+    "title": "Component Production & Assembly Management System",
+    "category": "Work",
+    "summary": "Python and Django-based manufacturing system that manages mobile component production, unique ID generation, component tracking, scanner integration and mobile assembly validation.",
+    "highlights": [
+      "Automated unique ID generation for mobile components",
+      "Component-to-mobile-base assignment through scanner integration",
+      "Duplicate component assignment prevention and validation",
+      "Assembly verification with missing-component detection",
+      "PostgreSQL database management with Django ORM"
+    ],
+    "stack": [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "PostgreSQL",
+      "Django ORM",
+      "REST APIs"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kVM4fLkLVhUzkpI55lXKktRPRlOxR-qjYvQLo4Esww&s=10",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 4
+  },
+  
+  {
+    "slug": "smart-clinical-advisor",
+    "title": "Smart Clinical Advisor",
+    "category": "Personal",
+    "summary": "AI-powered clinical recommendation platform that combines LLMs with retrieval-augmented generation to answer clinical queries.",
+    "highlights": [
+      "RAG pipeline with HyDE query expansion and FAISS vector search",
+      "FastAPI + PostgreSQL backend with JWT authentication",
+      "React.js frontend"
+    ],
+    "stack": ["Python", "FastAPI", "PostgreSQL", "React.js", "JWT", "LLMs", "RAG", "HyDE", "FAISS"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRaIQSDdXDf8xz6G1hX3GkJOEokHlnYZF74b00-UVksEqRNxSfKwak8C_&s=10",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 5
+  },
+  {
+    "slug": "ai-math-tutor",
+    "title": "AI Math Tutor",
+    "category": "Personal",
+    "summary": "LLM-powered educational assistant that explains math problems step by step using locally hosted models.",
+    "highlights": [
+      "Local DeepSeek model served through Ollama",
+      "LangChain + RAG with prompt engineering and chain-of-thought (CoT) reasoning"
+    ],
+    "stack": ["Python", "FastAPI", "Ollama", "DeepSeek", "LangChain", "PostgreSQL", "RAG", "CoT"],
+    "image_url": "https://cdn.vectorstock.com/i/1000v/03/06/student-using-ai-math-tutor-vector-60730306.jpg",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 6
+  },
+  {
+    "slug": "driver-drowsiness-detection",
+    "title": "Driver Drowsiness & Yawning Detection",
+    "category": "College",
+    "summary": "Real-time computer-vision system built during college that watches the driver's face and raises an alert when it detects drowsiness or yawning.",
+    "highlights": [
+      "Live webcam monitoring of eyes and mouth",
+      "Alert triggered before fatigue becomes dangerous"
+    ],
+    "stack": ["Python", "OpenCV", "Computer Vision", "Facial Landmarks"],
+    "image_url": "https://imagevision.ai/wp-content/uploads/2026/06/AI-Based-Driver-Monitoring-System-for-Driver-Distraction-and-Fatigue-Detection.jpg",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 7
+  },
+  {
+    "slug": "this-portfolio",
+    "title": "This Portfolio Website",
+    "category": "Personal",
+    "summary": "The site you are on: a FastAPI app with a 3D scroll-driven background, light/dark themes, a project API and a contact form that stores enquiries and emails them to me.",
+    "highlights": [
+      "Async FastAPI + SQLAlchemy + PostgreSQL",
+      "Contact form with validation, spam protection, rate limiting and email alerts",
+      "Three.js, GSAP and Lenis for scroll-based motion"
+    ],
+    "stack": ["Python", "FastAPI", "PostgreSQL", "Three.js", "GSAP", "Docker"],
+    "image_url": "/static/img/port.png",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 8
+  },
+  {
+    "slug": "smart-video-frame-tagger",
+    "title": "Smart Video Frame Tagger",
+    "category": "Personal",
+    "summary": "AI-powered video analytics platform that extracts video frames, detects objects and generates searchable metadata using computer vision and Generative AI.",
+    "highlights": [
+      "Grounding DINO for text-prompt-based object detection",
+      "OpenCV and FFmpeg for video processing and frame extraction",
+      "Vector embeddings with FAISS and ChromaDB for semantic search",
+      "Timestamp-based frame retrieval with visual previews"
+    ],
+    "stack": ["Python", "Grounding DINO", "OpenCV", "FFmpeg", "FAISS", "ChromaDB", "Docker", "AWS"],
+    "image_url": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/size/w1000/format/webp/2025/06/slecting_object_smart_poly.png",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 9
+  },
+ 
+  
+  {
+    "slug": "weather-forecast-app",
+    "title": "Weather Forecast Application",
+    "category": "Personal",
+    "summary": "A weather application that fetches real-time weather information from external APIs and displays current conditions and forecasts based on location.",
+    "highlights": [
+      "Search weather by city name",
+      "Display temperature and humidity",
+      "Show wind speed and weather conditions",
+      "Integrate third-party weather APIs"
+    ],
+    "stack": ["Python", "Django", "REST APIs", "JavaScript", "HTML", "CSS"],
+    "image_url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/the-weather-channel-interface-showing-23-degrees-and-partly-cloudy-weather-with-an-air-quality-widget-on-a-blue-sky-background.png?w=1600&h=900&fit=crop",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 10
+  },
+
+  
+  {
+    "slug": "employee-management-system",
+    "title": "Employee Management System",
+    "category": "Personal",
+    "summary": "A simple web application built with Django to manage employee information, department details, and employee records.",
+    "highlights": [
+      "Add and manage employee details",
+      "Update employee information",
+      "View employee records",
+      "Search employees by name or department"
+    ],
+    "stack": ["Python", "Django", "PostgreSQL", "HTML", "CSS", "Bootstrap"],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPuZn_MfrdGfZ5GhvAhjLn4PP9nsaSpbT2CVPwmwpjw&s=10",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 11
+  },
+  
+  {
+    "slug": "personal-expense-tracker",
+    "title": "Personal Expense Tracker",
+    "category": "Personal",
+    "summary": "A Django-based application that helps users track daily expenses, manage spending categories, and monitor monthly expenses.",
+    "highlights": [
+      "Add and manage daily expenses",
+      "Categorize income and expenses",
+      "View monthly spending reports",
+      "Calculate total expenses and remaining balance"
+    ],
+    "stack": ["Python", "Django", "SQLite", "HTML", "CSS", "Bootstrap"],
+    "image_url": "https://i.ytimg.com/vi/zQ5eijfpuu8/sddefault.jpg",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 12
+  }
+
+] 
