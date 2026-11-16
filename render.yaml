@@ -9,7 +9,7 @@ services:
       - key: APP_ENV
         value: production
       - key: SITE_URL
-        value: https://YOUR-DOMAIN.com        # change to your real domain
+        value: https://kandhancs.in       # change to your real domain
       - key: NOTIFY_EMAIL
         value: kandhanchandrasekar@gmail.com
       - key: MAIL_FROM
