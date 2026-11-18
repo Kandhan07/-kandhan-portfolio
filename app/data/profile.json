@@ -1,13 +1,13 @@
 {
   "name": "Kandhan C",
   "first_name": "Kandhan",
-  "title": "Backend Software Developer",
+  "title": "Python Backend Developer",
   "location": "Chennai, India",
   "email": "kandhanchandrasekar@gmail.com",
   "phone": "+91 9176135563",
-  "linkedin": "",
+  "linkedin": "www.linkedin.com/in/kandhan-c",
   "github": "",
-  "summary": "Python Backend Developer with 3+ years of experience building scalable applications and REST APIs using Python, Django, DRF, Flask, and FastAPI. Skilled in PostgreSQL, JWT/RBAC, and AWS, with experience in manufacturing automation, cloud integration, banking systems, and Generative AI (LLMs & RAG). Focused on developing reliable, secure, and efficient backend solutions that solve real-world business problems.",
+  "summary": "Python Backend Developer with 3+ years of experience building scalable applications and REST APIs using Python, FastAPI, Django, DRF and Flask. Experienced in PostgreSQL, JWT/RBAC, AWS and Generative AI (LLMs & RAG), with project work in healthcare, manufacturing automation, cloud integration and banking systems. Focused on developing reliable, secure and efficient backend solutions that solve real-world business problems.",
   "hero_tags": [
     "Python",
     "FastAPI",
@@ -24,12 +24,12 @@
       "place": "Chennai, India",
       "period": "Aug 2023 - Present",
       "points": [
-        "Developed and maintained Python-based backend applications and REST APIs.",
-        "Designed PostgreSQL database models and implemented efficient database operations using ORM.",
-        "Integrated AWS cloud services and implemented JWT authentication and role-based authorization.",
-        "Implemented business logic, API validation, exception handling and automation workflows.",
-        "Collaborated with frontend developers and cross-functional teams to deliver high-quality software solutions."
-      ],
+        "Built AI-powered features using OCR, LLMs and RAG, with background processing through Celery and Redis.",
+        "Developed and maintained scalable Python backend applications and REST APIs using FastAPI, Django and DRF.",
+        "Implemented JWT authentication, role-based authorization and AWS service integrations using Boto3.",
+        "Designed PostgreSQL database models and optimized database operations using SQLAlchemy and Django ORM.",
+        "Implemented business logic, API validation, exception handling and automation workflows."
+        ],
       "type": "Full-time",
       "summary": "Working on backend systems, automation, and integrations for manufacturing and business operations.",
       "tech": [
@@ -62,25 +62,25 @@
       "title": "Python Programming",
       "issuer": "GUVI",
       "date": "May 2023",
-      "url": ""
+      "url": "https://www.guvi.in/certificate?id=74551Qz6x810h6J3M6&utm"
     },
     {
       "title": "Django Framework",
       "issuer": "GeeksforGeeks",
       "date": "Jan 2024",
-      "url": ""
+      "url": "https://media.geeksforgeeks.org/courses/certificates/ba0bb6adbf7bcf332de1a5b28c039290.pdf"
     },
     {
       "title": "MySQL Database",
       "issuer": "Simplilearn",
       "date": "Jun 2024",
-      "url": ""
+      "url": "https://simpli-web.app.link/e/rP67QVKbK7b"
     },
     {
       "title": "AWS Cloud",
       "issuer": "Great Learning",
       "date": "May 2026",
-      "url": ""
+      "url": "https://www.mygreatlearning.com/certificate/JGZMUPJN"
     }
   ],
   "skills": [
@@ -146,14 +146,14 @@
           "icon": "devicon-github-original"
         }
       ]
-    },
+    },    
     {
       "group": "Tools & Data",
       "items": [
         {
           "name": "Postman",
           "icon": "devicon-postman-plain"
-        },
+        },        
         {
           "name": "Swagger",
           "icon": "devicon-swagger-plain"

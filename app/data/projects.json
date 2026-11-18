@@ -1,4 +1,33 @@
 [
+    {
+    "slug": "healthcare-patient-management-ai-report-analysis",
+    "title": "Healthcare Patient Management & AI Report Analysis Platform",
+    "category": "Work",
+    "summary": "FastAPI-based healthcare backend that manages patient profiles, doctor booking and care plans, and uses OCR, LLMs and RAG to extract medical values, summarize reports and answer questions from patient records.",
+    "highlights": [
+      "Secure REST APIs for patient profiles, report upload, doctor booking and care plans",
+      "JWT authentication with role-based access for patients and doctors",
+      "OCR and LLM pipeline to extract medical values and generate report summaries",
+      "RAG-based question answering over patient records using pgvector",
+      "Background report processing with Celery and Redis"
+    ],
+    "stack": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "pgvector",
+      "SQLAlchemy",
+      "Redis",
+      "Celery",
+      "Docker",
+      "Ollama",
+      "REST APIs"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRaIQSDdXDf8xz6G1hX3GkJOEokHlnYZF74b00-UVksEqRNxSfKwak8C_&s=10",
+    "github_url": "",
+    "live_url": "",
+    "sort_order": 1
+  },
   {
     "slug": "cloud-integration-authorization",
     "title": "Centralized Cloud Integration & Authorization System",
@@ -13,7 +42,7 @@
     "image_url": "https://cdn.mos.cms.futurecdn.net/Uv5J9FwShTViA8wUrZBKwn-2560-80.jpg",
     "github_url": "",
     "live_url": "",
-    "sort_order": 1
+    "sort_order": 2
   },
   {
     "slug": "manufacturing-assembly-system",
@@ -28,7 +57,7 @@
     "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQE19131dP_gVQ/feedshare-shrink_800/B4DaCi69yCI4Ac-/0/1789439762173?e=2147483647&v=beta&t=zgGMvN1rPzvqoqi6sHXAl5NzDZ2K3b2_D_UMwqWqXIo",
     "github_url": "",
     "live_url": "",
-    "sort_order": 2
+    "sort_order": 3
   },
   {
     "slug": "banking-document-automation",
@@ -44,65 +73,10 @@
     "image_url": "https://cdn.veryfi.com/wp-content/uploads/Banking-LP-Hero-Illustration-DM.svg",
     "github_url": "",
     "live_url": "",
-    "sort_order": 3
-  },
-  {
-    "slug": "component-production-assembly-system",
-    "title": "Component Production & Assembly Management System",
-    "category": "Work",
-    "summary": "Python and Django-based manufacturing system that manages mobile component production, unique ID generation, component tracking, scanner integration and mobile assembly validation.",
-    "highlights": [
-      "Automated unique ID generation for mobile components",
-      "Component-to-mobile-base assignment through scanner integration",
-      "Duplicate component assignment prevention and validation",
-      "Assembly verification with missing-component detection",
-      "PostgreSQL database management with Django ORM"
-    ],
-    "stack": [
-      "Python",
-      "Django",
-      "Django REST Framework",
-      "PostgreSQL",
-      "Django ORM",
-      "REST APIs"
-    ],
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kVM4fLkLVhUzkpI55lXKktRPRlOxR-qjYvQLo4Esww&s=10",
-    "github_url": "",
-    "live_url": "",
     "sort_order": 4
   },
+
   
-  {
-    "slug": "smart-clinical-advisor",
-    "title": "Smart Clinical Advisor",
-    "category": "Personal",
-    "summary": "AI-powered clinical recommendation platform that combines LLMs with retrieval-augmented generation to answer clinical queries.",
-    "highlights": [
-      "RAG pipeline with HyDE query expansion and FAISS vector search",
-      "FastAPI + PostgreSQL backend with JWT authentication",
-      "React.js frontend"
-    ],
-    "stack": ["Python", "FastAPI", "PostgreSQL", "React.js", "JWT", "LLMs", "RAG", "HyDE", "FAISS"],
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRaIQSDdXDf8xz6G1hX3GkJOEokHlnYZF74b00-UVksEqRNxSfKwak8C_&s=10",
-    "github_url": "",
-    "live_url": "",
-    "sort_order": 5
-  },
-  {
-    "slug": "ai-math-tutor",
-    "title": "AI Math Tutor",
-    "category": "Personal",
-    "summary": "LLM-powered educational assistant that explains math problems step by step using locally hosted models.",
-    "highlights": [
-      "Local DeepSeek model served through Ollama",
-      "LangChain + RAG with prompt engineering and chain-of-thought (CoT) reasoning"
-    ],
-    "stack": ["Python", "FastAPI", "Ollama", "DeepSeek", "LangChain", "PostgreSQL", "RAG", "CoT"],
-    "image_url": "https://cdn.vectorstock.com/i/1000v/03/06/student-using-ai-math-tutor-vector-60730306.jpg",
-    "github_url": "",
-    "live_url": "",
-    "sort_order": 6
-  },
   {
     "slug": "driver-drowsiness-detection",
     "title": "Driver Drowsiness & Yawning Detection",
@@ -116,7 +90,7 @@
     "image_url": "https://imagevision.ai/wp-content/uploads/2026/06/AI-Based-Driver-Monitoring-System-for-Driver-Distraction-and-Fatigue-Detection.jpg",
     "github_url": "",
     "live_url": "",
-    "sort_order": 7
+    "sort_order": 5
   },
   {
     "slug": "this-portfolio",
@@ -132,7 +106,7 @@
     "image_url": "/static/img/port.png",
     "github_url": "",
     "live_url": "",
-    "sort_order": 8
+    "sort_order": 6
   },
   {
     "slug": "smart-video-frame-tagger",
@@ -149,7 +123,7 @@
     "image_url": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/size/w1000/format/webp/2025/06/slecting_object_smart_poly.png",
     "github_url": "",
     "live_url": "",
-    "sort_order": 9
+    "sort_order": 7
   },
  
   
@@ -168,7 +142,7 @@
     "image_url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/the-weather-channel-interface-showing-23-degrees-and-partly-cloudy-weather-with-an-air-quality-widget-on-a-blue-sky-background.png?w=1600&h=900&fit=crop",
     "github_url": "",
     "live_url": "",
-    "sort_order": 10
+    "sort_order": 8
   },
 
   
@@ -187,25 +161,7 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPuZn_MfrdGfZ5GhvAhjLn4PP9nsaSpbT2CVPwmwpjw&s=10",
     "github_url": "",
     "live_url": "",
-    "sort_order": 11
-  },
-  
-  {
-    "slug": "personal-expense-tracker",
-    "title": "Personal Expense Tracker",
-    "category": "Personal",
-    "summary": "A Django-based application that helps users track daily expenses, manage spending categories, and monitor monthly expenses.",
-    "highlights": [
-      "Add and manage daily expenses",
-      "Categorize income and expenses",
-      "View monthly spending reports",
-      "Calculate total expenses and remaining balance"
-    ],
-    "stack": ["Python", "Django", "SQLite", "HTML", "CSS", "Bootstrap"],
-    "image_url": "https://i.ytimg.com/vi/zQ5eijfpuu8/sddefault.jpg",
-    "github_url": "",
-    "live_url": "",
-    "sort_order": 12
+    "sort_order": 9
   }
 
 ] 

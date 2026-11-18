@@ -163,7 +163,7 @@
           <p class="lead reveal">{{ p.summary }}</p>
           <div class="stats reveal">
             <div><b data-count="{{ yrs | replace('+', '') }}" data-suffix="{{ '+' if '+' in yrs else '' }}">{{ yrs }}</b><span>Years experience</span></div>
-            <div><b data-count="{{ projects | length }}">{{ projects | length }}</b><span>Projects</span></div>
+            <div><b>10+</b><span>Projects</span></div>
             <div><b data-count="{{ p.certifications | length }}">{{ p.certifications | length }}</b><span>Certifications</span></div>
           </div>
           <div class="about__actions reveal">
@@ -271,7 +271,7 @@
     <section class="section" id="projects">
       <div class="wrap">
         <p class="eyebrow reveal">Selected work</p>
-        <h2 class="title reveal">Projects <span class="accent">({{ projects | length }})</span></h2>
+        <h2 class="title reveal">Projects</h2>
         <div class="filters reveal" role="group" aria-label="Filter projects">
           <button class="filter is-active" type="button" data-filter="all">All</button>
           {% for c in categories %}<button class="filter" type="button" data-filter="{{ c }}">{{ c }}</button>{% endfor %}
